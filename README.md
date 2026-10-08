@@ -34,7 +34,10 @@ As renewable generation grows, power systems face increasing uncertainty and var
 5. **A. A. Subih**, "Evaluation of Deep Learning Models with Satellite Data Inputs for Hourly Wind Speed Prediction in Hadhramout, Yemen," *2nd IEEE International Conference on Fundamental, Applied Sciences and Technology (ICoFAST)*, 2024.
 6. **A. A. Subih**, "SCADA System Design: Design of the Field Equipment of Wadi Hadramout Power Grid," Karary University, 2011.
 
-**In preparation:** multi-objective planning of wind DG and BESS (NSGA-II, MOPSO, MOEA/D, MOGWO); load forecasting with metaheuristic-tuned LSTM/BiLSTM.
+**In preparation:**
+
+- *A Novel Hyperparameter-Optimized Hybrid Deep Learning Framework for Electrical Load Forecasting* 
+- Multi-objective planning of wind DG and BESS (NSGA-II, MOPSO, MOEA/D, MOGWO)
 
 ## 🏛️ Academic Service
 
