@@ -1,6 +1,7 @@
  <h1 align="center">  Abdullah Ashoor Subih</h1>
 
-<h3 align="center">PhD Candidate, Universiti Tenaga Nasional (UNITEN), Malaysia<br/>Artificial Intelligence · Deep Learning · Metaheuristic Optimization · Renewable Energy Forecasting & Planning</h3>
+<h3 align="center">PhD Candidate, Universiti Tenaga Nasional (UNITEN), Malaysia<br/>Artificial Intelligence · Deep Learning · Metaheuristic Optimization · 
+ Renewable Energy Forecasting & Planning · Automation · Control System</h3>
 <hr/>
 
 ## 🔭 About
