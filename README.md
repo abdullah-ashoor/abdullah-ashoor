@@ -1,4 +1,4 @@
- <h1 align="center">Hi 👋, I'm Abdullah Ashoor Subih</h1>
+ <h1 align="center">Hi  Abdullah Ashoor Subih</h1>
 
 <h3 align="center">PhD Candidate, Universiti Tenaga Nasional (UNITEN), Malaysia<br/>Artificial Intelligence · Deep Learning · Metaheuristic Optimization · Renewable Energy Forecasting & Planning</h3>
 <hr/>
