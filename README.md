@@ -62,13 +62,14 @@ As renewable generation grows, power systems face increasing uncertainty and var
 - 🤖 **Research-workflow automation:** reusable AI skills for data extraction (Excel/PDF/OCR), peer-review responses, and scientific figures
 - 🏷️ **Hadhramout Tech AI:** my own brand for AI and technology work
 
-## 🔗 Connect with me
+## 🔗 Academic & Professional Profiles
 
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=QRUUnwsAAAAJ)
-[![ORCID](https://img.shields.io/badge/ORCID-iD-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0001-9394-7740)
-[![Scopus](https://img.shields.io/badge/Scopus-60201940900-E9711C?logo=elsevier&logoColor=white)](https://www.scopus.com/authid/detail.uri?authorId=60201940900)
-[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Abdullah-Subih-2)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdullah-subih-9a081062/)
+[![Web of Science](https://img.shields.io/badge/Web%20of%20Science-LKN--6440--2024-5B3F8C?style=flat-square)](https://www.webofscience.com/wos/author/record/LKN-6440-2024)
+[![Scopus](https://img.shields.io/badge/Scopus-60201940900-E9711C?style=flat-square)](YOUR_SCOPUS_PROFILE_URL)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?style=flat-square)](YOUR_GOOGLE_SCHOLAR_URL)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0001--9394--7740-A6CE39?style=flat-square)](https://orcid.org/0009-0001-9394-7740)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=flat-square)](YOUR_RESEARCHGATE_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square)](YOUR_LINKEDIN_URL)
 
 
 ## 🛠️ Languages and Tools
